@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* animal
+  * dog
+  * cat
+* plant
+  the apple tree 
